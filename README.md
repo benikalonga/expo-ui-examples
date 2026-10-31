@@ -1,3 +1,5 @@
+> **Note:** This is a copy of [SchroederNathan/expo-ui-examples](https://github.com/SchroederNathan/expo-ui-examples), kept for AI code-review research. All credit goes to the original authors. Licensed under the original [MIT License](./LICENSE). See [UPSTREAM.md](./UPSTREAM.md) for details.
+
 # Expo UI Examples
 
 A collection of small, self-contained [`@expo/ui`](https://docs.expo.dev/versions/v58.0.0/sdk/ui/) demos (Expo SDK 58 beta). The whole app is built with Expo UI.
