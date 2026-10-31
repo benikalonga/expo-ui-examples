@@ -1,4 +1,4 @@
-> **Note:** This is a copy of [SchroederNathan/expo-ui-examples](https://github.com/SchroederNathan/expo-ui-examples), kept for AI code-review research. All credit goes to the original authors. Licensed under the original [MIT License](./LICENSE). See [UPSTREAM.md](./UPSTREAM.md) for details.
+> **Note:** This is a copy of [SchroederNathan/expo-ui-examples](https://github.com/SchroederNathan/expo-ui-examples). All credit goes to the original authors. Licensed under the original [MIT License](./LICENSE). See [UPSTREAM.md](./UPSTREAM.md) for details.
 
 # Expo UI Examples
 
